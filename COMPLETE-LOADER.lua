@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NorthernSoftware/Northern.rbx/main/Games/Arsenal/Arsenal-undetected.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NorthernSoftware/Northern.rbx/main/Northern-loader.lua"))()
