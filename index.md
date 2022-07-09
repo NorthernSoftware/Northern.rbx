@@ -4,7 +4,4 @@ This project is maintained by the northern software roblox team
 
 This repository will contain scripts, api, executor
 
-´print("")´
-
-
-[Link](url) and ![Image](src)
+## Have fun!
