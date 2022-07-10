@@ -1,4 +1,7 @@
 # Northern.rbx | dsc.gg/northernHvH | TO JOIN OUR DISCORD
+
+[![Views](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{username}/{project})
+
 Github Repository for northern roblox scripts
 
 How to execute?
