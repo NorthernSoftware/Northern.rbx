@@ -1,6 +1,6 @@
 # Northern.rbx | dsc.gg/northernHvH | TO JOIN OUR DISCORD
 
-[![Views](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{username}/{project})
+[![Views](https://hits.dwyl.com/{NorthernSoftware}/{Northern.rbx}.svg?style=flat-square)](http://hits.dwyl.com/{NorthernSoftware}/{Northern.rbx})
 
 Github Repository for northern roblox scripts
 
